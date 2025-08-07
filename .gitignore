@@ -1,0 +1,11 @@
+# Ignorowane pliki i foldery dla ML/DL/Colab
+data/
+outputs/
+*.csv
+*.mat
+*.h5
+*.npz
+*.parquet
+*.pth
+*.ckpt
+.ipynb_checkpoints/
